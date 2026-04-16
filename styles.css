@@ -38,19 +38,51 @@ p {
 
 /* Compleate challenge down here */
 
-#box-yellow {
-background-color: yellow;
+.box-yellow {
+background-color: orange;
+display: inline-block;
+width:24vw;
+height: 100vh;
+color:white;
+padding: 1rem;
+font-size:2rem;
 }
 
-#box-green{
-  background-color: green;
+.box-green{
+  background-color: purple;
+  display: inline-block;
+  width:24vw;
+  height:100vh;
+  color:white;
+  padding: 1rem;
+  font-size:2rem;
 }
 
-#box-blue{
-  background-color: blue;
+.box-blue{
+  background-color: pink;
+  display: inline-block;
+  width:24vw;
+  height:100vh;
+  color:white;
+  padding: 1rem;
+  font-size:2rem;
 }
 
-#box-red{
-  background-color: red;
+.box-red{
+  background-color: black;
+  display: inline-block;
+  width:24vw;
+  height: 100vh;
+  color:white;
+  padding: 1rem;
+  font-size:2rem;
+  border: solid 15px green;
+  
+}
+
+.size-text{
+  font-size: 3vw;
+  margin-bottom: 2vh;
+  background-color: blueviolet;
 }
 
